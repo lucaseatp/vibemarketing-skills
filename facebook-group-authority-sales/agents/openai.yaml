@@ -1,0 +1,4 @@
+interface:
+  display_name: "Facebook Group Sales"
+  short_description: "Non-spam sales in Facebook groups"
+  default_prompt: "Use $facebook-group-authority-sales to interview my business, rank groups, record rules, map key people, and create 3 initial posts per group."
