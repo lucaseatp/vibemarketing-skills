@@ -11,11 +11,17 @@ Use this skill to design Facebook group sales strategies that feel native to a c
 
 The focus is fully on **authority-led sales**: the person sells because they become recognized, useful, and trusted in that community. Optimize for trust, usefulness, local relevance, rule compliance, and learning from history.
 
+## Marketing Context
+
+Before asking discovery questions, check whether `marketing-context.md` exists in the current workspace. If it exists, read it first and use it as the source of truth for the business, offer, ICP, positioning, proof points, voice, geography, constraints, and current campaigns.
+
+Use the file to avoid asking for information that is already available. Ask only for missing or ambiguous details that matter for Facebook group selection, group rules, local relevance, content angles, CTAs, or compliance.
+
 ## Required Workflow
 
 Follow this order before creating content:
 
-1. Run the community relevance interview. Use `references/interview-and-strategy.md`.
+1. Read `marketing-context.md` if it exists, then run the community relevance interview only for missing context. Use `references/interview-and-strategy.md`.
 2. Research groups that make sense for the user and rank each group from 0 to 10. Use `references/group-research-scoring.md`.
 3. If third-party scraping tools are enabled, analyze at most 100 posts per group. Use `references/optional-scraping.md`.
 4. Identify key people in each group: admins, influential members, local references, and potential partners. Use `references/key-people-partnerships.md`.

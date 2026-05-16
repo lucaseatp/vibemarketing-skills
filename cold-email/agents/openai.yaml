@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cold Email"
+  short_description: "Cold email copy and capacity planning"
+  default_prompt: "Use $cold-email to plan my monthly outbound capacity, then write a 3-email cold outreach campaign for my ICP."

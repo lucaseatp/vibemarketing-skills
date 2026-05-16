@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marketing Context"
+  short_description: "Create the shared marketing context file"
+  default_prompt: "Use $marketing-context to create or refresh marketing-context.md from my business notes, docs, site, product, and campaign context."
