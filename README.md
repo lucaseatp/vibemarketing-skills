@@ -70,6 +70,40 @@ Ajuda a escrever, revisar, planejar e dimensionar campanhas B2B de cold email. I
 Use $cold-email para criar uma sequência de 3 emails para vender minha consultoria para empresas SaaS B2B.
 ```
 
+### copywriting
+
+Skill (English) to **write, improve, and critique persuasive copy** — landing pages, headlines, offers, CTAs, and value-first ad creatives. Integrates with `marketing-context.md`. Does not cover cold email, Google Ads structure, or Facebook group posts.
+
+Example:
+
+```text
+Use $copywriting to write the hero copy for my SaaS landing page. Value angle, I have marketing-context.md.
+```
+
+### meta-ads
+
+Skill (English) to **analyze, plan, and optimize Meta Ads** — C-A-A structures, scale ecosystem, cost cap, Feed/Reels/Stories, **SaaS strategy** (test→validate→scale, demo, LTV). Integrates MCP when available.
+
+References: `caa-strategy`, `scale-ecosystem`, `cost-cap-low-ticket`, `channels-formats-creative`, `saas-meta-ads`. Copy: `copywriting` skill.
+
+Example:
+
+```text
+Use $meta-ads to build Meta strategy for my SaaS. $97/mo ticket, I have a video demo and purchase pixel.
+```
+
+### google-ads
+
+Skill (English) to plan, structure, write, audit, and optimize **Google Ads** campaigns (Search, Performance Max, Display, Video, Demand Gen). USD tiers: low (&lt;200/day), medium (~200/day), high (~400/day), very high (≥20k/month). Search → PMax order, CRM-qualified leads (not CPL alone), PMax as scale/complement.
+
+Integrates with `marketing-context.md`. References: structure/bidding, copy/AI Max, Performance Max, tracking/value rules, optimization checklist.
+
+Example:
+
+```text
+Use $google-ads to build Search campaigns for my clinic in NYC. Budget US$ 200/day, goal is appointments. I have marketing-context.md.
+```
+
 ### facebook-group-authority-sales
 
 Aplica a técnica **Community Authority Seeding**, ou **Semeadura de Autoridade Comunitária**: venda em grupos do Facebook baseada em pertencimento real, participação na comunidade, criação de autoridade e CTAs leves.
@@ -95,6 +129,19 @@ vibemarketing-skills/
 |   |-- scripts/
 |   |-- agents/
 |   `-- references/
+|-- copywriting/
+|   |-- SKILL.md
+|   |-- agents/
+|   `-- references/
+|-- meta-ads/
+|   |-- SKILL.md
+|   |-- agents/
+|   `-- references/
+|-- google-ads/
+|   |-- SKILL.md
+|   `-- references/
+|       |-- performance-max.md
+|       `-- ...
 `-- facebook-group-authority-sales/
     |-- SKILL.md
     |-- agents/
