@@ -42,6 +42,40 @@ Você também pode usar as skills como referência para criar seus próprios age
 
 ## Skills disponíveis
 
+### copywriting
+
+Skill (PT) para **escrever, melhorar e criticar copy persuasiva** — landing pages, headlines, ofertas, CTAs e criativos de valor para anúncios pagos. Integra com `marketing-context.md`. Não cobre cold email, estrutura Google Ads ou posts em grupos do Facebook.
+
+Exemplo:
+
+```text
+Use $copywriting para escrever a hero copy da minha landing page SaaS. Ângulo de valor, tenho marketing-context.md.
+```
+
+### meta-ads
+
+Skill (English) to **analyze, plan, and optimize Meta Ads** — C-A-A structures, scale ecosystem, cost cap, Feed/Reels/Stories, **SaaS strategy** (test→validate→scale, demo, LTV). Integrates MCP when available.
+
+References: `caa-strategy`, `scale-ecosystem`, `cost-cap-low-ticket`, `channels-formats-creative`, `saas-meta-ads`. Copy: `copywriting` skill.
+
+Example:
+
+```text
+Use $meta-ads to build Meta strategy for my SaaS. $97/mo ticket, I have a video demo and purchase pixel.
+```
+
+### google-ads
+
+Skill (English) to plan, structure, write, audit, and optimize **Google Ads** campaigns (Search, Performance Max, Display, Video, Demand Gen). USD tiers: low (&lt;200/day), medium (~200/day), high (~400/day), very high (≥20k/month). Search → PMax order, CRM-qualified leads (not CPL alone), PMax as scale/complement.
+
+Integrates with `marketing-context.md`. References: structure/bidding, copy/AI Max, Performance Max, tracking/value rules, optimization checklist.
+
+Example:
+
+```text
+Use $google-ads to build Search campaigns for my clinic in NYC. Budget US$ 200/day, goal is appointments. I have marketing-context.md.
+```
+
 ### facebook-group-authority-sales
 
 Skill para aplicar a técnica **Community Authority Seeding**, ou **Semeadura de Autoridade Comunitária**: uma abordagem de venda em grupos do Facebook baseada em pertencimento real, participação na comunidade, criação de autoridade e chamadas comerciais leves.
@@ -60,6 +94,19 @@ Use $facebook-group-authority-sales para montar uma estratégia para meu negóci
 vibemarketing-skills/
 |-- README.md
 |-- LICENSE
+|-- copywriting/
+|   |-- SKILL.md
+|   |-- agents/
+|   `-- references/
+|-- meta-ads/
+|   |-- SKILL.md
+|   |-- agents/
+|   `-- references/
+|-- google-ads/
+|   |-- SKILL.md
+|   `-- references/
+|       |-- performance-max.md
+|       `-- ...
 `-- facebook-group-authority-sales/
     |-- SKILL.md
     |-- agents/

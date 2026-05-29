@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meta Ads"
+  short_description: "Meta Ads strategy and analysis, including SaaS"
+  default_prompt: "Use $meta-ads to analyze my Meta campaigns. $97/mo ticket, SaaS, 6 campaigns 1-1-1."

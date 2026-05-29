@@ -1,0 +1,4 @@
+interface:
+  display_name: "Copywriting"
+  short_description: "Copy persuasiva e criativo de valor para anúncios"
+  default_prompt: "Use $copywriting para escrever a hero copy da minha landing page. Tenho marketing-context.md."
