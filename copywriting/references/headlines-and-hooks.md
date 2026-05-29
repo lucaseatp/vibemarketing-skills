@@ -1,59 +1,59 @@
-# Headlines e hooks
+# Headlines and Hooks
 
-## Conteúdo
+## Contents
 
-- Princípios de hook
-- Fórmulas de headline
-- Nível de consciência
-- Hooks valor primeiro (tráfego pago)
-- Anti-padrões
+- Hook principles
+- Headline formulas
+- Awareness level
+- Value-first hooks (paid traffic)
+- Anti-patterns
 
-## Princípios de hook
+## Hook principles
 
-- **Primeiro trabalho:** ganhar a próxima linha (scroll, clique, leitura).
-- **Uma ideia** por headline — não promessa + prova + CTA na mesma linha.
-- **Específico vence esperto** — "Reduza o IR de 6h para 45 min" vence "Revolucione seu fluxo de trabalho".
-- **Pattern interrupt** — comece no meio da história, no meio do fato ou com número concreto; evite "Oi, eu sou…".
+- **First job:** earn the next line (scroll, click, read).
+- **One idea** per headline — not promise + proof + CTA in the same line.
+- **Specific beats clever** — "Cut tax prep from 6h to 45 min" beats "Revolutionize your workflow".
+- **Pattern interrupt** — start mid-story, mid-fact, or with a concrete number; avoid "Hi, I'm…".
 
-## Fórmulas de headline
+## Headline formulas
 
-Use como ponto de partida, não como spam de preenchimento:
+Use as starting points, not fill-in-the-blank spam:
 
-| Padrão | Exemplo |
+| Pattern | Example |
 | --- | --- |
-| Resultado + restrição | "10 clientes a mais/mês sem contratar" |
-| Como + resultado | "Como baixar CPA no Google Search em 14 dias" |
-| Número + substantivo | "5 erros que inflam seu gasto em ads" |
-| Pergunta (tensão real) | "Ainda paga por clique que não liga?" |
-| Para [leitor] | "Para clínicas cansadas de no-show" |
-| Sem [dor] | "Anuncie no Search sem queimar budget em lead lixo" |
+| Outcome + constraint | "10 more clients/month without hiring" |
+| How + outcome | "How to lower Google Search CPA in 14 days" |
+| Number + noun | "5 mistakes inflating your ad spend" |
+| Question (real tension) | "Still paying for clicks that never call?" |
+| For [reader] | "For clinics tired of no-shows" |
+| Without [pain] | "Run Search ads without burning budget on junk leads" |
 
-Gere **3–5 ângulos distintos**, não sinônimos da mesma linha.
+Generate **3–5 distinct angles**, not synonyms of the same line.
 
-## Nível de consciência
+## Awareness level
 
-| Nível | Estado do leitor | Trabalho da headline |
+| Level | Reader state | Headline job |
 | --- | --- | --- |
-| Desconhece | Não sabe que tem o problema | Nomear a dor ou surpreender |
-| Consciente do problema | Sabe a dor, não a solução | Agitar + indicar categoria |
-| Consciente da solução | Compara opções | Diferenciar + prova |
-| Consciente do produto | Conhece você | Oferta, objeção, urgência (só se real) |
-| Mais consciente | Pronto para comprar | CTA direto + remoção de fricção |
+| Unaware | Doesn't know they have the problem | Name the pain or surprise |
+| Problem-aware | Knows the pain, not the solution | Agitate + point to category |
+| Solution-aware | Comparing options | Differentiate + proof |
+| Product-aware | Knows you | Offer, objection, urgency (only if real) |
+| Most aware | Ready to buy | Direct CTA + friction removal |
 
-## Hooks valor primeiro (tráfego pago)
+## Value-first hooks (paid traffic)
 
-Quando o tráfego é frio ou o mercado está cético com anúncios:
+When traffic is cold or the market is skeptical of ads:
 
-- Lidere com **curiosidade + substância**: "Dá para investir em dólar em menos de 10 min — o que a maioria erra."
-- Use **listas e micro-aulas**: "5 formas de lavar o carro errado (e riscar a pintura)."
-- Use **entrada em história**: "Acabei com o sonho da minha mãe — até aprender isso sobre ads."
-- Mostre **processo ou ofício**: chef na cozinha, detalhe no carro, gravação de tela com uma dica real.
+- Lead with **curiosity + substance**: "You can invest in dollars in under 10 min — what most people get wrong."
+- Use **lists and micro-lessons**: "5 ways to wash your car wrong (and scratch the paint)."
+- Use **story entry**: "I crushed my mom's dream — until I learned this about ads."
+- Show **process or craft**: chef in the kitchen, car detail close-up, screen recording with one real tip.
 
-Hook nos **primeiros 5 segundos** ou na primeira linha. Sem aquecimento.
+Hook in the **first 5 seconds** or first line. No warm-up.
 
-## Anti-padrões
+## Anti-patterns
 
-- Superlativos vazios: "ultimate", "revolucionário", "game-changer" sem prova.
-- Personalização falsa: "Oi {nome}, vi que sua empresa…" quando não é verdade.
-- Clickbait sem match: promessa da headline que a página não cumpre em 5 segundos.
-- Mesmo ângulo repetido 10 vezes com palavras diferentes.
+- Empty superlatives: "ultimate", "revolutionary", "game-changer" without proof.
+- Fake personalization: "Hi {name}, I saw your company…" when it's not true.
+- Clickbait without match: headline promise the page doesn't deliver in 5 seconds.
+- Same angle repeated 10 times with different words.

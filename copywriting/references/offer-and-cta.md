@@ -1,61 +1,61 @@
-# Oferta e CTA
+# Offer and CTA
 
-## Conteúdo
+## Contents
 
-- Regras de CTA
-- Primário vs secundário
-- Enquadramento da oferta
-- Tratamento de objeções
-- Reversão de risco
+- CTA rules
+- Primary vs secondary
+- Offer framing
+- Objection handling
+- Risk reversal
 
-## Regras de CTA
+## CTA rules
 
-- **Uma ação primária** por tela ou seção de e-mail.
-- **Verbo + resultado + redução de fricção**: "Começar teste grátis — sem cartão" (só se verdade).
-- Alinhe **nível de compromisso** à consciência — não peça call no primeiro toque em tráfego frio sem a copy ter merecido.
-- Evite sozinhos: "Enviar", "Clique aqui", "Saiba mais" — combine com o que acontece depois.
+- **One primary action** per screen or email section.
+- **Verb + outcome + friction reduction**: "Start free trial — no card required" (only if true).
+- Match **commitment level** to awareness — don't ask for a call on first touch in cold traffic unless the copy earned it.
+- Avoid alone: "Submit", "Click here", "Learn more" — pair with what happens next.
 
-## Primário vs secundário
+## Primary vs secondary
 
-| Primário | Secundário |
+| Primary | Secondary |
 | --- | --- |
-| Comprar, agendar, iniciar trial, pedir orçamento | Ver preços, assistir demo, baixar guia |
-| Um por seção | Opcional, menor compromisso |
+| Buy, book, start trial, request quote | See pricing, watch demo, download guide |
+| One per section | Optional, lower commitment |
 
-O secundário não deve competir visual ou verbalmente com o primário no mesmo bloco.
+Secondary must not compete visually or verbally with primary in the same block.
 
-## Enquadramento da oferta
+## Offer framing
 
-Empilhe só elementos **confirmados**:
+Stack only **confirmed** elements:
 
-1. **Oferta core** — o que recebem
-2. **Preço ou âncora** — números reais apenas
-3. **Bônus** — reais e relevantes
-4. **Garantia** — termos reais
-5. **Urgência/escassez** — só se factual (prazo, vagas, sazonal)
+1. **Core offer** — what they get
+2. **Price or anchor** — real numbers only
+3. **Bonuses** — real and relevant
+4. **Guarantee** — actual terms
+5. **Urgency/scarcity** — only if factual (deadline, seats, seasonal)
 
-Se o preço não estiver confirmado, use `[PREÇO]` ou pergunte — não invente.
+If price isn't confirmed, use `[PRICE]` or ask — don't invent.
 
-## Tratamento de objeções
+## Objection handling
 
-Trate antes do CTA final:
+Address before the final CTA:
 
-| Objeção | Movimento de copy |
+| Objection | Copy move |
 | --- | --- |
-| Preço | ROI, custo de não agir, condições de pagamento |
-| Esforço | Tempo até valor, done-for-you, passos simples |
-| Confiança | Prova, garantia, credenciais, transparência do processo |
-| Fit | Qualificadores "Ideal para…" / "Não é para…" |
-| Troca | Suporte à migração, cancelamento a qualquer momento (se verdade) |
+| Price | ROI, cost of inaction, payment terms |
+| Effort | Time to value, done-for-you, simple steps |
+| Trust | Proof, guarantee, credentials, process transparency |
+| Fit | "Ideal for…" / "Not for…" qualifiers |
+| Switching | Migration support, cancel anytime (if true) |
 
-Formato: 3–5 linhas curtas de FAQ ou bullets de redução de risco.
+Format: 3–5 short FAQ lines or risk-reduction bullets.
 
-## Reversão de risco
+## Risk reversal
 
-Use só políticas verificáveis:
+Use only verifiable policies:
 
-- Garantia de reembolso com prazo e condições claros
-- Trial grátis com data fim e comportamento de cobrança explícitos
-- "Pague só se…" quando legal e operacionalmente verdade
+- Money-back guarantee with clear window and conditions
+- Free trial with end date and billing behavior spelled out
+- "Pay only if…" when legally and operationally true
 
-Nunca escassez falsa ou countdown que reinicia.
+Never fake scarcity or countdowns that reset.

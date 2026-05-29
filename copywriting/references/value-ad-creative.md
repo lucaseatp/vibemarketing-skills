@@ -1,117 +1,117 @@
-# Criativo de valor (anúncio de valor)
+# Value Ad Creative
 
-## Conteúdo
+## Contents
 
-- Conceito
-- Promessa vs valor
-- Quando usar
-- Estrutura do criativo
-- Padrões de hook que testam bem
-- Fluxo de produção
-- Match de destino
-- Adaptação por canal
-- Limites
+- Concept
+- Promise vs value
+- When to use
+- Creative structure
+- Hook patterns that test well
+- Production workflow
+- Destination match
+- Channel adaptation
+- Boundaries
 
-## Conceito
+## Concept
 
-**Criativo de valor** = o anúncio entrega utilidade real (dica, demo, história, lista, revelação de processo) antes da venda suave. O público aprende ou vê competência primeiro; o CTA convida o próximo passo — não substitui o valor.
+**Value ad creative** = the ad delivers real utility (tip, demo, story, list, process reveal) before a soft sell. The audience learns or sees competence first; the CTA invites the next step — it doesn't replace the value.
 
-Frase central: **quem gera valor vira a melhor opção** — mesmo sem comprar hoje, lembram quem ajudou.
+Core line: **who creates value becomes the best option** — even if they don't buy today, they remember who helped.
 
-Em testes de longo prazo no Meta, YouTube e Google: criativo de valor costuma reduzir CPL/CPA, melhorar qualidade de lead, diminuir comentários negativos e proteger reputação vs anúncios só de promessa.
+In long-run tests on Meta, YouTube, and Google: value creatives often lower CPL/CPA, improve lead quality, reduce negative comments, and protect reputation vs promise-only ads.
 
-## Promessa vs valor
+## Promise vs value
 
-| Liderado por promessa | Liderado por valor |
+| Promise-led | Value-led |
 | --- | --- |
-| Lidera com resultado ("Mude sua vida", "Consiga clientes rápido") | Lidera com insight ("3 erros matando seu ROAS") |
-| Funciona com confiança alta na marca | Funciona com mercado cético ou commoditizado |
-| Maior risco de backlash se exagerar | Constrói autoridade e reciprocidade |
-| Padrão comum em ads | Diferencial em feeds barulhentos |
+| Leads with outcome ("Change your life", "Get clients fast") | Leads with insight ("3 mistakes killing your ROAS") |
+| Works with high brand trust | Works in skeptical or commoditized markets |
+| Higher backlash risk if exaggerated | Builds authority and reciprocity |
+| Common ad default | Differentiator in noisy feeds |
 
-Liderado por valor **não** significa sem CTA. Significa CTA **depois** do valor, sutil: "Se quiser o sistema completo, clique aqui."
+Value-led **does not** mean no CTA. It means CTA **after** value, subtle: "If you want the full system, click here."
 
-## Quando usar
+## When to use
 
-Prefira criativo liderado por valor quando:
+Prefer value-led creative when:
 
-- Tráfego pago frio (Meta, YouTube, TikTok, Display, vídeo PMax)
-- Nicho com fadiga de golpe (dinheiro, saúde, biz-op)
-- Reputação e comentários importam
-- Há conteúdo existente para repurpose (podcast, YouTube, palestras, trabalho com cliente)
-- Expertise precisa ser **mostrada**, não só declarada
+- Cold paid traffic (Meta, YouTube, TikTok, Display, PMax video)
+- Niche with scam fatigue (money, health, biz-op)
+- Reputation and comments matter
+- Existing content to repurpose (podcast, YouTube, talks, client work)
+- Expertise must be **shown**, not just claimed
 
-Promessa ainda pode funcionar em remarketing, busca de marca ou ofertas com prova sólida e compliance rígido.
+Promise can still work in remarketing, brand search, or offers with solid proof and strict compliance.
 
-## Estrutura do criativo
+## Creative structure
 
-Arco padrão (vídeo 60–120s; adapte ao canal):
+Default arc (60–120s video; adapt by channel):
 
-1. **Hook (0–5s)** — entre no assunto na hora. Sem vinheta de logo, sem "meu nome é…" primeiro.
-2. **Corpo de valor** — ensine uma coisa útil, mostre processo ou conte história específica com lição.
-3. **Sinal de autoridade** — resultado, caso de cliente ou demonstração (só confirmados).
-4. **CTA suave** — um próximo passo claro ligado ao que foi ensinado.
-5. **Legenda/botão opcional** — CTA curto abaixo do criativo.
+1. **Hook (0–5s)** — enter the topic immediately. No logo sting, no "my name is…" first.
+2. **Value body** — teach one useful thing, show process, or tell a specific story with a lesson.
+3. **Authority signal** — result, client case, or demonstration (confirmed only).
+4. **Soft CTA** — one clear next step tied to what was taught.
+5. **Optional caption/button** — short CTA below the creative.
 
-Anúncio estático ou só texto: uma dica concreta ou linha de curiosidade + CTA — mesma lógica, comprimida.
+Static or text-only ad: one concrete tip or curiosity line + CTA — same logic, compressed.
 
-## Padrões de hook que testam bem
+## Hook patterns that test well
 
-Padrões de criativos de valor de alta performance:
+High-performing value creative patterns:
 
-| Padrão | Exemplo de abertura |
+| Pattern | Opening example |
 | --- | --- |
-| **Lista** | "5 formas de pagar a mais no Google Ads" |
-| **História** | "Matei o sonho da minha mãe — eis o que aprendi" |
-| **Corte de palestra** | Abrir no meio da talk em ponto forte |
-| **Revelação de processo** | Lavar carro com pincel no emblema; chef preparando no fogão |
-| **Mito quebrado** | "Não precisa de 10k/mês para testar Search — precisa disso" |
-| **Micro-aula** | "Déficit primeiro, proteína depois — não o contrário" |
+| **List** | "5 ways you're overpaying on Google Ads" |
+| **Story** | "I killed my mom's dream — here's what I learned" |
+| **Talk clip** | Open mid-talk at a strong point |
+| **Process reveal** | Washing a car badge with a brush; chef at the stove |
+| **Myth bust** | "You don't need $10k/mo to test Search — you need this" |
+| **Micro-lesson** | "Deficit first, protein second — not the other way around" |
 
-Regras:
+Rules:
 
-- Primeira linha/frame precisa ganhar atenção — curiosidade ou benefício concreto.
-- Não comece com "Neste vídeo eu vou…"
-- Não empilhe hooks não relacionados.
+- First line/frame must earn attention — curiosity or concrete benefit.
+- Don't start with "In this video I'm going to…"
+- Don't stack unrelated hooks.
 
-## Fluxo de produção
+## Production workflow
 
-1. **Minerar assets existentes** — melhores posts, cortes de podcast, momentos de webinar, cases (com permissão).
-2. **Cortar uma ideia** — um clip = um ângulo de anúncio.
-3. **Adicionar hook se a fonte começa lenta** — overlay de texto ou cold open da frase mais forte.
-4. **Fechar com CTA** — editado; alinhar ao objetivo da campanha (lead, compra, cadastro).
-5. **Volume** — muitas variantes da mesma fonte (50+ cortes de longo é normal).
-6. **Documentar o dia a dia** — consultas, trabalho, cozinha, loja; criativo de valor escala com documentação.
+1. **Mine existing assets** — best posts, podcast clips, webinar moments, cases (with permission).
+2. **Cut one idea** — one clip = one ad angle.
+3. **Add hook if source starts slow** — text overlay or cold open on the strongest line.
+4. **Close with CTA** — edited; align to campaign goal (lead, purchase, signup).
+5. **Volume** — many variants from the same source (50+ cuts from long-form is normal).
+6. **Document daily work** — consults, job site, kitchen, shop; value creative scales with documentation.
 
-**Não é o mesmo que campanha de "distribuição de conteúdo":** distribuição otimiza views; criativo de valor roda em **objetivo de conversão** com valor dentro do anúncio — a plataforma busca quem tende a converter, não só assistir.
+**Not the same as "content distribution" campaigns:** distribution optimizes views; value creative runs on **conversion objective** with value inside the ad — the platform finds people likely to convert, not just watch.
 
-## Match de destino
+## Destination match
 
-Landing page, formulário ou WhatsApp devem **continuar o mesmo tema** ensinado no criativo.
+Landing page, form, or WhatsApp must **continue the same theme** taught in the creative.
 
-- Dica de Google Ads → página da oferta de Google Ads — não produto unrelated.
-- Dicas de banho pet → agendamento pet shop — não homepage genérica.
-- Micro-aula financeira → consultoria daquele tema — não curso unrelated.
+- Google Ads tip → Google Ads offer page — not an unrelated product.
+- Pet grooming tips → pet shop booking — not a generic homepage.
+- Finance micro-lesson → consulting on that topic — not an unrelated course.
 
-Desalinhamento mata conversão e confiança.
+Misalignment kills conversion and trust.
 
-## Adaptação por canal
+## Channel adaptation
 
-Para **Meta Ads** (Feed, Reels, meta de custo, ecossistema, SaaS), use a skill `meta-ads` — `references/saas-meta-ads.md` e `channels-formats-creative.md`.
+For **Meta Ads** (Feed, Reels, cost cap, ecosystem, SaaS), use the `meta-ads` skill — `references/saas-meta-ads.md` and `channels-formats-creative.md`.
 
-| Canal | Adaptação |
+| Channel | Adaptation |
 | --- | --- |
-| **Meta (Reels/Feed)** | 30–90s, legendas on, botão CTA ou "ver mais" |
-| **YouTube** | 60s–3min in-feed; hook em 5s; end card ou link na descrição |
-| **Google PMax / Vídeo** | Grupos de assets curtos; uma mensagem por asset; texto complementa vídeo |
-| **Google Search RSA** | Comprimir valor em headlines/descriptions — dica ou curiosidade no H1, CTA no H2/D1; ver limites RSA em `google-ads` |
-| **Negócio local** | Mostrar o trabalho (cozinha limpa, detalhe, antes/depois do processo) + CTA telefone/endereço |
+| **Meta (Reels/Feed)** | 30–90s, captions on, CTA button or "see more" |
+| **YouTube** | 60s–3min in-feed; hook in 5s; end card or link in description |
+| **Google PMax / Video** | Short asset groups; one message per asset; text complements video |
+| **Google Search RSA** | Compress value into headlines/descriptions — tip or curiosity in H1, CTA in H2/D1; see RSA limits in `google-ads` |
+| **Local business** | Show the work (clean kitchen, detail shot, process before/after) + phone/address CTA |
 
-Para limites de caracteres RSA, pinagem e tiers de pré-qualificação, use `google-ads/references/search-ads-copy.md` depois de rascunhar os ângulos aqui.
+For RSA character limits, pinning, and pre-qualification tiers, use `google-ads/references/search-ads-copy.md` after drafting angles here.
 
-## Limites
+## Boundaries
 
-- Ensine passos **reais** — não esconda tudo para forçar clique; dê o suficiente para o anúncio ser útil sozinho.
-- Não prometa o que o produto não entrega; mostre o **caminho**, depois ofereça ajuda.
-- Sem experts falsos, resultados fabricados ou before/after enganosos.
-- Compliance: saúde, finanças e renda seguem regras da plataforma e locais — qualifique em vez de hype.
+- Teach **real** steps — don't hide everything to force a click; give enough for the ad to stand alone.
+- Don't promise what the product doesn't deliver; show the **path**, then offer help.
+- No fake experts, fabricated results, or misleading before/after.
+- Compliance: health, finance, and income follow platform and local rules — qualify instead of hype.

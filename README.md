@@ -72,12 +72,12 @@ Use $cold-email para criar uma sequência de 3 emails para vender minha consulto
 
 ### copywriting
 
-Skill (PT) para **escrever, melhorar e criticar copy persuasiva** — landing pages, headlines, ofertas, CTAs e criativos de valor para anúncios pagos. Integra com `marketing-context.md`. Não cobre cold email, estrutura Google Ads ou posts em grupos do Facebook.
+Skill (English) to **write, improve, and critique persuasive copy** — landing pages, headlines, offers, CTAs, and value-first ad creatives. Integrates with `marketing-context.md`. Does not cover cold email, Google Ads structure, or Facebook group posts.
 
-Exemplo:
+Example:
 
 ```text
-Use $copywriting para escrever a hero copy da minha landing page SaaS. Ângulo de valor, tenho marketing-context.md.
+Use $copywriting to write the hero copy for my SaaS landing page. Value angle, I have marketing-context.md.
 ```
 
 ### meta-ads

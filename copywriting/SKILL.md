@@ -1,119 +1,119 @@
 ---
 name: copywriting
-description: "Escreve, melhora e critica copy persuasiva para landing pages, headlines, ofertas, CTAs, posts sociais, e-mails de nutrição e criativos de valor para anúncios pagos. Use quando o usuário pedir copy, headlines, hooks, subheads, sales pages, texto de landing page, copy de oferta, roteiro de anúncio, criativo de valor ou reescrita de copy. Não use para cold outreach (cold-email), estrutura de campanha Google Ads ou limites de RSA (google-ads), ou posts em grupos do Facebook (facebook-group-authority-sales)."
+description: "Writes, improves, and critiques persuasive copy for landing pages, headlines, offers, CTAs, social posts, nurture emails, and value-first ad creatives. Use when the user asks for copy, headlines, hooks, subheads, sales pages, landing page text, offer copy, ad scripts, value creatives, or copy rewrites. Do not use for cold outreach (cold-email), Google Ads campaign structure or RSA limits (google-ads), or Facebook group posts (facebook-group-authority-sales)."
 ---
 
 # Copywriting
 
-## Visão geral
+## Overview
 
-Escreva copy de marketing persuasiva, focada em conversão, clara, específica e orientada à ação. Padrão: **valor primeiro** — ensine ou prove algo real antes de pedir o clique, especialmente em anúncios pagos.
+Write persuasive, conversion-focused marketing copy that is clear, specific, and action-oriented. Default: **value first** — teach or prove something real before asking for the click, especially in paid ads.
 
-Sempre separe:
+Always distinguish:
 
-- **Copy de promessa** — lidera com o resultado (funciona quando há prova e fit fortes).
-- **Copy de valor** — lidera com insight, demo ou prova de expertise; vende pela confiança (ver `references/value-ad-creative.md` para anúncios pagos).
+- **Promise-led copy** — leads with the outcome (works when proof and fit are strong).
+- **Value-led copy** — leads with insight, demo, or proof of expertise; sells through trust (see `references/value-ad-creative.md` for paid ads).
 
-Leia `marketing-context.md` se existir antes de fazer perguntas.
+Read `marketing-context.md` if it exists before asking questions.
 
-## Regras centrais (sempre aplicar)
+## Core rules (always apply)
 
-1. Uma promessa clara — um resultado principal por peça.
-2. Um leitor específico — combine nível de consciência e contexto.
-3. Benefícios primeiro; recursos só como suporte.
-4. Seja específico — números, prazos e restrições vencem adjetivos.
-5. Comprove afirmações — depoimentos, resultados, demos, comparações, garantias (somente se confirmados).
-6. Trate objeções antes que surjam — preço, esforço, confiança, fit, troca.
-7. Torne escaneável — linhas curtas, bullets, subtítulos claros.
-8. Mantenha voz e tom consistentes com a marca.
-9. Um call to action claro e específico.
-10. Edite sem piedade — corte fluff e clichês; clareza acima de esperteza.
+1. One clear promise — one primary outcome per piece.
+2. One specific reader — match awareness level and context.
+3. Benefits first; features only as support.
+4. Be specific — numbers, timelines, and constraints beat adjectives.
+5. Back claims — testimonials, results, demos, comparisons, guarantees (only if confirmed).
+6. Handle objections before they appear — price, effort, trust, fit, switching cost.
+7. Make it scannable — short lines, bullets, clear subheads.
+8. Keep voice and tone consistent with the brand.
+9. One clear, specific call to action.
+10. Edit ruthlessly — cut fluff and clichés; clarity over cleverness.
 
-## Primeiros passos
+## Getting started
 
-1. Se `marketing-context.md` existir, leia.
-2. Identifique o tipo de tarefa: copy nova, reescrita, crítica, só headlines, landing page, oferta/CTA, criativo de valor ou bloco padrão.
-3. Se faltar informação-chave, faça até **3 perguntas curtas**. Se o contexto estiver claro ou o usuário tiver pressa, declare premissas e prossiga.
-4. Carregue só a referência necessária (tabela abaixo).
+1. If `marketing-context.md` exists, read it.
+2. Identify task type: new copy, rewrite, critique, headlines only, landing page, offer/CTA, value creative, or standard block.
+3. If key info is missing, ask up to **3 short questions**. If context is clear or the user is in a hurry, state assumptions and proceed.
+4. Load only the reference you need (table below).
 
-## Referências
+## References
 
-| Arquivo | Quando usar |
+| File | When to use |
 | --- | --- |
-| `references/headlines-and-hooks.md` | Headlines, hooks, assuntos, aberturas, scroll-stoppers |
-| `references/landing-page-copy.md` | Landing pages, sales pages, hero, estrutura de página |
-| `references/offer-and-cta.md` | Ofertas, copy de preço, CTAs, garantias, reversão de risco |
-| `references/value-ad-creative.md` | Criativo de anúncio que entrega valor antes do pedido (Meta, YouTube, Google vídeo/PMax, short-form) |
+| `references/headlines-and-hooks.md` | Headlines, hooks, subject lines, openings, scroll-stoppers |
+| `references/landing-page-copy.md` | Landing pages, sales pages, hero, page structure |
+| `references/offer-and-cta.md` | Offers, pricing copy, CTAs, guarantees, risk reversal |
+| `references/value-ad-creative.md` | Ad creative that delivers value before the ask (Meta, YouTube, Google video/PMax, short-form) |
 
-Para **RSA do Google Search** (limites de caracteres, pinagem, pré-qualificação), use a skill `google-ads` — aplique ângulos de valor de `value-ad-creative.md` e adapte ao formato RSA em `google-ads/references/search-ads-copy.md`.
+For **Google Search RSA** (character limits, pinning, pre-qualification), use the `google-ads` skill — apply value angles from `value-ad-creative.md` and adapt to RSA format in `google-ads/references/search-ads-copy.md`.
 
-## Fluxo: copy nova
+## Workflow: new copy
 
-1. **Leitor** — quem, consciência (desconhece → mais consciente), dor principal, resultado desejado.
-2. **Ângulo** — promessa vs valor (padrão valor para tráfego frio pago e nichos sensíveis à reputação).
-3. **Prova** — só fatos confirmados; marque lacunas como `[PROVA NECESSÁRIA]` se rascunho for permitido.
-4. **Rascunho** — siga o formato pedido ou a saída padrão (abaixo).
-5. **Corte** — remova linhas genéricas que qualquer concorrente poderia usar.
+1. **Reader** — who, awareness (unaware → most aware), primary pain, desired outcome.
+2. **Angle** — promise vs value (default value for cold paid traffic and reputation-sensitive niches).
+3. **Proof** — confirmed facts only; mark gaps as `[PROOF NEEDED]` if drafts are allowed.
+4. **Draft** — follow requested format or default output (below).
+5. **Cut** — remove generic lines any competitor could use.
 
-## Fluxo: crítica ou reescrita
+## Workflow: critique or rewrite
 
-1. Diagnostique os maiores riscos de conversão (promessa vaga, leitor errado, prova fraca, CTA enterrado, tom de anúncio).
-2. Entregue a copy revisada.
-3. Indique brevemente o que mudou e um teste a rodar em seguida.
+1. Diagnose biggest conversion risks (vague promise, wrong reader, weak proof, buried CTA, ad tone).
+2. Deliver revised copy.
+3. Briefly note what changed and one test to run next.
 
-Em tarefas de crítica/revisão, inclua diagnóstico. Em entrega pura de copy, siga as regras de saída abaixo.
+For critique/review tasks, include diagnosis. For pure copy delivery, follow output rules below.
 
-## Saída padrão (quando o formato não for especificado)
+## Default output (when format is not specified)
 
-Forneça, nesta ordem:
+Provide, in this order:
 
-1. Headline (1–3 opções)
-2. Subheadline (1–2 opções)
-3. Bullets de benefícios (3–7)
-4. Prova / credibilidade (quando aplicável)
-5. Tratamento de objeções (FAQ curto ou linhas de redução de risco)
-6. CTA primário + CTA secundário
+1. Headline (1–3 options)
+2. Subheadline (1–2 options)
+3. Benefit bullets (3–7)
+4. Proof / credibility (when applicable)
+5. Objection handling (short FAQ or risk-reduction lines)
+6. Primary CTA + secondary CTA
 
-## Regras de saída
+## Output rules
 
-**Quando o usuário pedir só a copy final:**
+**When the user asks for final copy only:**
 
-- Entregue **apenas** a copy — sem explicações ou meta comentário.
-- Texto simples. Sem tags HTML. Evite tabelas, salvo se o usuário pedir.
-- Se o usuário pedir um formato, siga exatamente.
+- Deliver **only** the copy — no explanations or meta commentary.
+- Plain text. No HTML tags. Avoid tables unless the user asks.
+- If the user specifies a format, follow it exactly.
 
-**Quando pedir crítica, estratégia ou opções com rationale:**
+**When they ask for critique, strategy, or options with rationale:**
 
-- Inclua diagnóstico, copy revisada e teste recomendado.
+- Include diagnosis, revised copy, and recommended test.
 
-Escreva entregas no idioma de trabalho do usuário, salvo se ele pedir outro.
+Write deliverables in the user's working language unless they request otherwise.
 
-## Limites
+## Boundaries
 
-Nunca:
+Never:
 
-- Invente depoimentos, resultados, números, garantias ou alegações de compliance.
-- Prometa resultados sem prova confirmada.
-- Use hype que prejudique reputação (“fique rico da noite pro dia”, curas milagrosas, urgência falsa).
-- Copie filler genérico de IA que qualquer concorrente usaria.
+- Invent testimonials, results, numbers, guarantees, or compliance claims.
+- Promise outcomes without confirmed proof.
+- Use hype that hurts reputation ("get rich overnight", miracle cures, fake urgency).
+- Copy generic AI filler any competitor would use.
 
-Prefira:
+Prefer:
 
-- Ângulos valor primeiro em tráfego pago — ensine o caminho, depois convide o próximo passo.
-- Especificidade acima de superlativos.
-- Um CTA primário por seção.
-- Message match entre anúncio/copy e landing page.
+- Value-first angles in paid traffic — teach the path, then invite the next step.
+- Specificity over superlatives.
+- One primary CTA per section.
+- Message match between ad/copy and landing page.
 
-## Exemplos
+## Examples
 
-**Usuário:** "Escreve hero copy do meu SaaS de contabilidade para PMEs."
+**User:** "Write hero copy for my SMB accounting SaaS."
 
-→ Leia `marketing-context.md` se existir → `references/landing-page-copy.md` → bloco de saída padrão.
+→ Read `marketing-context.md` if present → `references/landing-page-copy.md` → default output block.
 
-**Usuário:** "10 opções de headline para campanha local de pet shop."
+**User:** "10 headline options for a local pet shop campaign."
 
-→ `references/headlines-and-hooks.md` → ângulo de valor (dicas, transparência do processo) se tráfego pago.
+→ `references/headlines-and-hooks.md` → value angle (tips, process transparency) if paid traffic.
 
-**Usuário:** "Roteiro de anúncio de valor de 90s a partir do meu corte de podcast sobre Google Ads."
+**User:** "90s value ad script from my podcast clip about Google Ads."
 
-→ `references/value-ad-creative.md` → hook nos primeiros 5 segundos → CTA suave no final → destino alinhado ao tema.
+→ `references/value-ad-creative.md` → hook in first 5 seconds → soft CTA at end → destination aligned with topic.
